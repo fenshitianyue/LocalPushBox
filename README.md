@@ -3,7 +3,7 @@
 之前学习C语言的过程中，为了增加学习趣味，做的一个小游戏。
 
 ### 运行截图
-
+![游戏过程](https://images.gitee.com/uploads/images/2018/0914/205217_69043cee_2170218.jpeg "pro.jpg")
 
 
 
@@ -29,7 +29,7 @@ IDE：Visual stdio 2013
 
 ### 鸣谢
 
-c语言中文网
+[C语言中文网](http://c.biancheng.net/)
 
 
 
